@@ -1,0 +1,48 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+/.vs/
+/bin/
+bin-int/
+
+.vs/Engine/FileContentIndex/15453a18-6c43-46ff-8585-8909484d9cec.vsidx
+.vs/Engine/FileContentIndex/5fc63318-48b0-4925-b067-750a2fe6f7aa.vsidx
+.vs/Engine/FileContentIndex/a4fe0388-1572-4944-b9c5-a996824ad8c2.vsidx
+.vs/Engine/v17/.suo
+.vs/Engine/v17/Browse.VC.db
+.vs/Engine/v17/Solution.VC.db
+.vs/Engine/v17/ipch/AutoPCH/8efe26e750d99c37/APPLICATION.ipch
+.vs/Engine/v17/ipch/AutoPCH/d6242e353023d8a/SANDBOXAPP.ipch
+.vs/Engine/v17/ipch/AutoPCH/f0b3539312f49f38/ENGINE.ipch
+.vs/ProjectSettings.json
+.vs/slnx.sqlite

@@ -1,7 +1,7 @@
-#include <Engine.h>
+#include <NG.h>
 
 
-class Sandbox : public Engine::Application
+class Sandbox : public NG::Application
 {
 public:
 	Sandbox()
@@ -15,7 +15,7 @@ public:
 
 };
 
-Engine::Application* Engine::CreateApplication()
+NG::Application* NG::CreateApplication()
 {
 	return new Sandbox();
 }

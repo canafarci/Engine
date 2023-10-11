@@ -1,7 +1,7 @@
 #pragma once
 #include "Core.h"
 
-namespace Engine {
+namespace NG {
 	class NG_API Application
 	{
 	public:

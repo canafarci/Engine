@@ -1,7 +1,7 @@
 #include "Application.h"
 #include <stdio.h>
 
-namespace Engine {
+namespace NG {
 	Application::Application()
 	{
 	}

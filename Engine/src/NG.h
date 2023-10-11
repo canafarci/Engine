@@ -5,8 +5,8 @@
 
 //For use by Engine applications
 
-#include "Engine/Application.h"
+#include "NG/Application.h"
+#include "NG/Log.h"
 
 //Entry point
-
-#include "Engine/EntryPoint.h"
+#include "NG/EntryPoint.h"
